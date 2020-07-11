@@ -1,6 +1,7 @@
 {
   "name": "react-native-firebase",
   "private": true,
+  "main": "./packages/app/"
   "scripts": {
     "version": "node ./scripts/version.js",
     "postversion": "node ./scripts/postversion.js",
